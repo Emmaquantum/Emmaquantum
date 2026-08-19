@@ -37,7 +37,7 @@ I don't just write code; I architect the math behind it. My GitHub is a living p
 - Implementing **inventory optimization algorithms** that balance supply-demand fluctuations.
 - Training ML models for **predictive forecasting**, dynamic recommendations, and granular customer segmentation.
 
-### Hydraulic Engineer & Data Analyst | **Cesva S.A.S.**Diseñe materiales didácticos
+### Hydraulic Engineer & Data Analyst (by projects) | **Cesva S.A.S.**
 *Sep 2023 – Mar 2024 | Bogotá D.C. - Proyecto*
 - Performed complex hydraulic calculations and flow system modeling for large-scale infrastructure projects.
 - Developed and optimized **custom algorithms in Python and Matlab** to automate data analysis and reduce manual processing time.
@@ -49,8 +49,8 @@ I don't just write code; I architect the math behind it. My GitHub is a living p
 - Led small project teams and provided technical consulting, bridging the gap between engineering constraints and business needs.
 - Enhanced client presentations with advanced **statistical analysis and data visualization** techniques.
 
-### Mathematics & Physics Educator (Part time)
-*Jul 2022 – 2025 | Various Institutions (Ingenious S.A.S., Deming S.A.S., Multipruebas S.A.S.)*
+### Mathematics & Physics Educator (Part time) | Various Institutions 
+*Jul 2022 – 2025 |Ingenious S.A.S., Deming S.A.S., Multipruebas S.A.S.*
 - Designed didactic strategies to teach complex mathematical reasoning and physics problem-solving.
 - Implemented innovative pedagogical methods to simplify abstract concepts for high-school and university students.
 
