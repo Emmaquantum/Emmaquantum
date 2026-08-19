@@ -30,32 +30,31 @@ I don't just write code; I architect the math behind it. My GitHub is a living p
 
 ## 💼 Professional Experience
 
-### Applied Mathematician & Founder | **Sierra Analytics**
+### Founder and Independent Data Science Consultant | **Sierra Analytics**
 *Dec 2025 – Present | Bogotá D.C.*
-- Performing deep-dive **EDA and data mining** to uncover hidden patterns in business operations.
-- Developing **econometric and dynamic simulation models** to support high-stakes strategic decision-making.
-- Implementing **inventory optimization algorithms** that balance supply-demand fluctuations.
-- Training ML models for **predictive forecasting**, dynamic recommendations, and granular customer segmentation.
+- Conducted exploratory data analysis (EDA), applying categorization and segmentation techniques to identify consumer behavior patterns.
+- Designed and implemented optimization algorithms for resource allocation across advertising channels, optimizing budget distribution among different media.
 
-### Hydraulic Engineer & Data Analyst (by projects) | **Cesva S.A.S.**
-*Sep 2023 – Mar 2024 | Bogotá D.C. - Proyecto*
-- Performed complex hydraulic calculations and flow system modeling for large-scale infrastructure projects.
-- Developed and optimized **custom algorithms in Python and Matlab** to automate data analysis and reduce manual processing time.
-- Applied **quantitative analysis and statistical modeling** to validate engineering designs and propose innovative solutions.
+### Numerical Modeling and Analysis Automation Engineer (Flow Systems) | **Cesva S.A.S.**
+*Sep 2023 – Mar 2024 | Bogotá D.C. - Project-based*
+- Applied Monte Carlo simulations and statistical models to the potential use of facilities, calculating probable and improbable scenarios to validate design hypotheses and ensure regulatory compliance.
+- Designed and implemented custom algorithms in Python and Excel to automate pressure and velocity calculations for different pipe sections.
+- Led the numerical modeling and simulation of flow systems (pressure, drainage, and water collection networks) for large-scale infrastructure, translating analysis results into detailed technical drawings and calculation reports.
 
-### Technical Commercial Advisor & Data Consultant | **Techno Skills Engineering Services S.A.S.**
-*Abr 2022 – Mar 2023 | Bogotá D.C.*
-- Built analytical models in Python and Matlab to support **data-driven decision-making** for internal stakeholders.
-- Led small project teams and provided technical consulting, bridging the gap between engineering constraints and business needs.
-- Enhanced client presentations with advanced **statistical analysis and data visualization** techniques.
+### Technical Solutions Engineer (Pre-sales) | **Techno Skills Engineering Services S.A.S.**
+*Sep 2022 – Apr 2023 | Bogotá D.C.*
+- Managed sales prospecting, customer segmentation, cold calling, and the coordination of technical demos nationwide.
+- Designed and executed experimental guides and PoCs to customize solutions when the standard product did not meet the need.
+- Presented technical solutions to clients and regulatory entities, ensuring feasibility, safety, and regulatory compliance.
 
-### Mathematics & Physics Educator (Part time) | Various Institutions
-*Jul 2022 – 2025 | Ingenious S.A.S., Deming S.A.S., Multipruebas S.A.S. / Limca S.A.S.*
-- Designed didactic strategies to teach complex mathematical reasoning and physics problem-solving.
-- Implemented innovative pedagogical methods to simplify abstract concepts for high-school and university students.
-- Designed educational materials and led school grade level, strengthening positive school relationships and comprehensive support.
+### Mathematics and Physics Teacher for Pre-Unal and Pre-ICFES Programs | Various Institutions
+*Jul 2021 – Sep 2025 | Bogotá D.C. – Ingenious S.A.S., Deming S.A.S., Multipruebas S.A.S. / Limca S.A.S.*
+- Designed teaching strategies to teach complex mathematical reasoning and physics problem-solving.
+- Implemented innovative teaching methods to simplify abstract concepts for high school and university students.
+- Design educational materials.
+- Led groups, strengthening positive school relationships and comprehensive support.
+
 ---
-
 ## 🔬 Research Experience
 
 ### Academic Researcher | **MinCiencias Plasma Torch Project**
