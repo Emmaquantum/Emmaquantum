@@ -9,9 +9,7 @@ Bogotá D.C., Colombia | ✉️ julianssvr@gmail.com | 📱 +57 317-640-6113
 
 I am a Physical Engineer and Applied Mathematician (MSc candidate) with a strong track record in translating complex industrial and business problems into functional mathematical models. 
 
-My professional experience spans **hydraulic infrastructure modeling**, **econometric forecasting**, and **inventory optimization**—but my true passion lies at the frontier of computation. Currently, I am deeply immersed in **quantum-inspired algorithms** to accelerate optimization problems, exploring **hybrid neural networks** for numerical simulations, and preparing to tackle **LLM efficiency and fine-tuning**.
-
-I don't just write code; I architect the math behind it. My GitHub is a living portfolio of my journey—from classical Finite Element Method (FEM) solvers in Julia to experimental quantum optimization scripts. I am looking for R&D and Data Science roles where mathematical rigor meets scalable machine learning.
+Junior Data Scientist with a degree in Physical Engineering and an M.Sc. in Applied Mathematics (in progress). With a foundation in mathematical modeling for optimization and simulation, as well as practical experience in ML projects for forecasting (predictive) and customer segmentation (clustering). I am seeking a technical role in data or R&D where I can consolidate these skills by translating operational or business problems into quantitative models.
 
 ---
 
