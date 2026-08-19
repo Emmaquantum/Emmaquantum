@@ -54,7 +54,6 @@ I don't just write code; I architect the math behind it. My GitHub is a living p
 - Designed didactic strategies to teach complex mathematical reasoning and physics problem-solving.
 - Implemented innovative pedagogical methods to simplify abstract concepts for high-school and university students.
 - Designed educational materials and led school grade level, strengthening positive school relationships and comprehensive support.
-
 ---
 
 ## 🔬 Research Experience
