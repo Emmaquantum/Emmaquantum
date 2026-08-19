@@ -49,18 +49,11 @@ I don't just write code; I architect the math behind it. My GitHub is a living p
 - Led small project teams and provided technical consulting, bridging the gap between engineering constraints and business needs.
 - Enhanced client presentations with advanced **statistical analysis and data visualization** techniques.
 
-### Mathematics & Physics Educator (Part time) | Various Institutions 
-*Jul 2022 – 2025 |Ingenious S.A.S., Deming S.A.S., Multipruebas S.A.S.*
+### Mathematics & Physics Educator (Part time) | Various Institutions
+*Jul 2022 – 2025 | Ingenious S.A.S., Deming S.A.S., Multipruebas S.A.S. / Limca S.A.S.*
 - Designed didactic strategies to teach complex mathematical reasoning and physics problem-solving.
 - Implemented innovative pedagogical methods to simplify abstract concepts for high-school and university students.
-
-
-
-### Mathematics & Physics
-*Apr 2024 - Nov 2024 | Limca S.A.S.*
-- Design educational materials.
-- Implemented innovative pedagogical methods to simplify abstract concepts for high-school.
-- In charge of leading a school grade level.
+- Designed educational materials and led school grade level, strengthening positive school relationships and comprehensive support.
 
 ---
 
