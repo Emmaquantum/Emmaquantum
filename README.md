@@ -87,15 +87,14 @@ Junior Data Scientist with a degree in Physical Engineering and an M.Sc. in Appl
 ## 🌐 Languages
 
 - **Spanish:** Native
-- **English:** Intermediate (B1-B2) — *Actively improving technical communication.*
+- **English:** Intermediate (B1-B2)
 
 ---
 
-## 🚀 Featured GitHub Projects (What you'll find there)
+## 🚀 Featured GitHub Projects
 
-- **Hybrid Neural Networks for FEM Optimization:** Implementing a physics-informed metamodel to reduce computational cost in numerical simulations.
-- **Quantum Optimization Scripts:** Experimental code exploring how quantum principles (like QAOA) can accelerate classical optimization loops.
-- **Econometric Simulations:** Real-world modeling projects used for inventory and demand forecasting.
-- **ML Pipelines:** End-to-end implementations for customer segmentation and predictive analytics in Python.
+- **Hybrid Neural Networks for FEM Optimization:** Physics-informed metamodel that reduces computational cost in numerical simulations.
+- **Quantum Optimization Scripts:** Experimental code applying quantum principles like QAOA to speed up classical optimization loops.
+- **Econometric Simulations & ML Pipelines:** Real-world modeling for inventory/demand forecasting, plus end-to-end customer segmentation and predictive analytics in Python.
 
 > *"The best way to evaluate a mathematician is by the models they build."* — Check my code at **[github.com/Emmaquantum](https://github.com/Emmaquantum)**.
